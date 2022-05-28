@@ -1,0 +1,14 @@
+{
+  "cpu": {
+    "fqbn": "",
+    "name": "",
+    "type": ""
+  },
+  "secrets": [],
+  "included_libs": [
+    {
+      "name": "IRremote",
+      "version": "2.8.1"
+    }
+  ]
+}
